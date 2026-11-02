@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "APK Extractor"
+rootProject.name = "GI-ApkExtractor"
 
 include(":app")

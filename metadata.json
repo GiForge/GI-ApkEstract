@@ -1,5 +1,5 @@
 {
-  "name": "APK Extractor",
+  "name": "GI-ApkExtractor",
   "description": "Estrai e condividi file APK (singoli o multipli) delle app installate, anche via Bluetooth o gestore file.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
